@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f206e028-9b9d-4d76-987d-7b8f3e173977" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commands.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.rnd" afterPath="$PROJECT_DIR$/.rnd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/OutlawRedemption.iml" afterPath="$PROJECT_DIR$/.idea/OutlawRedemption.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/index.html" afterPath="$PROJECT_DIR$/public/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/main.js" afterPath="$PROJECT_DIR$/public/app/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/main.js.map" afterPath="$PROJECT_DIR$/public/app/main.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/polyfills.js" afterPath="$PROJECT_DIR$/public/app/polyfills.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/polyfills.js.map" afterPath="$PROJECT_DIR$/public/app/polyfills.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/runtime.js" afterPath="$PROJECT_DIR$/public/app/runtime.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/styles.js" afterPath="$PROJECT_DIR$/public/app/styles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/styles.js.map" afterPath="$PROJECT_DIR$/public/app/styles.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/vendor.js" afterPath="$PROJECT_DIR$/public/app/vendor.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -620,12 +608,12 @@
       <workItem from="1562310690865" duration="18909000" />
       <workItem from="1562333728523" duration="6156000" />
       <workItem from="1562416506613" duration="2250000" />
-      <workItem from="1562480037958" duration="10874000" />
+      <workItem from="1562480037958" duration="11494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60524000" />
+    <option name="totallyTimeSpent" value="61144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1058" extended-state="6" />
